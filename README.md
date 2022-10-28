@@ -1,5 +1,7 @@
 # Password Generator Starter Code
 
+http://127.0.0.1:5506/index.html
+
 # Discription
 
 Created a password generator to automatically output a random password.
@@ -8,7 +10,7 @@ the use of this is to give out a unusual and not pratical password that could be
 
 # Screenshot
 
-
+![alt text](./img/Screen%20Shot%202022-10-28%20at%2010.45.02%20AM.png "homepage")
 
 # Usage
 
